@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="Yazmazsam Deli Olacaktım">
+    <dc:title>Yazmazsam Deli Olacaktım</dc:title>
+    <dc:creator>Susie Hodge</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>domingo</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about="Yeni Bir Ülke Bulamazsın">
+    <dc:title>Yeni Bir Ülke Bulamazsın</dc:title>
+    <dc:creator>Walter Isaacson</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Adam Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about="Beyin Senin Hikayen">
+    <dc:title>Beyin Senin Hikayen</dc:title>
+    <dc:creator>Kevin Dutton</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Adam Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about="Beynin Gizli Hayatı">
+    <dc:title>Beynin Gizli Hayatı</dc:title>
+    <dc:creator>Maris Wicks</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Monorit Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about="Gerçekten Bilmeniz Gereken 50 Sanat">
+    <dc:title>Gerçekten Bilmeniz Gereken 50 Sanat</dc:title>
+    <dc:creator>David Eaglmen</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Adam Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about="Geleceği Keşfedenler">
+    <dc:title>Geleceği Keşfedenler</dc:title>
+    <dc:creator>Kevin Dutton</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Domingo Yayın evi</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about="Bakır İntiharlar">
+    <dc:title>Bakır İntiharlar</dc:title>
+    <dc:creator>Ahmet Haşim</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Adam Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about="İnsan Vücüdu Tiyatrosu">
+    <dc:title>İnsan Vücüdu Tiyatrosu</dc:title>
+    <dc:creator>Susie Hodge</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Adam Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about=">Bir Ölüm Bağışlamak">
+    <dc:title>>Bir Ölüm Bağışlamak</dc:title>
+    <dc:creator>Ahmet Haşim</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Adam Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about=">Güle Güle Ki Tarif Edemem">
+    <dc:title>>Güle Güle Ki Tarif Edemem</dc:title>
+    <dc:creator>Kevin Dutton</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Monorit Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about=">Dönüp Baktığımda">
+    <dc:title>>Dönüp Baktığımda</dc:title>
+    <dc:creator>Walter Isaacson</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Adam Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about=">Işığını söndürme sakın">
+    <dc:title>>Işığını söndürme sakın</dc:title>
+    <dc:creator>Susie Hodge</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Adam Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+<rdf:Description rdf:about=">Doğa Öyküleri">
+    <dc:title>>Doğa Öyküleri</dc:title>
+    <dc:creator>Maris Wicks</dc:creator>
+    <dc:type>Roman</dc:type>
+    <dc:publisher>Domingo Yayınevi</dc:publisher>
+    <dc:language>Türkçe</dc:language>   
+</rdf:Description>
+                
+    
+    
+</rdf:RDF>

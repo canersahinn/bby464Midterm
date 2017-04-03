@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="yazar.xsl"?>
+<authors> 
+    <author>
+        <author_id>1</author_id>
+        <name>David Eaglemen</name>
+        <country>İngiltere</country>
+        <birthdate>12/04/1952</birthdate>
+        <gender>erkek</gender>
+        <language>ingilizce</language>
+    </author>
+   
+    <author>
+        <author_id>2</author_id>
+        <name>Susie Hodge</name>
+        <country>İngiltere</country>
+        <birthdate>08/07/1974</birthdate>
+        <gender>kadın</gender>
+        <language>ingilizce</language> 
+    </author>
+
+    <author>
+        <author_id>3</author_id>
+        <name>Kevin Dustlon</name>
+        <country>Almanya</country>
+        <birthdate>24/12/1961</birthdate>
+        <gender>erkek</gender>
+        <language>Almanca</language>
+    </author>
+
+    <author>
+        <author_id>4</author_id>
+        <name>Maris Wicks</name>
+        <country>USA</country>
+        <birthdate>15/07/1984</birthdate>
+        <gender>kadın</gender> 
+        <language>ingilizce</language>
+    </author>
+    
+    <author>
+        <author_id>5</author_id>
+        <name>Ahmet Haşim</name>
+        <country>Türkiye</country>
+        <birthdate>14/01/1955</birthdate>
+        <gender>Erkek</gender>
+        <language>Türkçe</language>  
+    </author>
+
+
+
+
+
+</authors>

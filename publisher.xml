@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<yayınevleri>
+  
+    <yayınevi>
+        <yayınevi_id>1</yayınevi_id>
+        <yayıneviadı>Domingo yayınevi</yayıneviadı>
+        <Yayınyeri>istanbul</Yayınyeri>
+        
+       <iletişimbilgileri>
+         
+           <telefon>05224655654</telefon>
+           <mail>dsahbdjas@gmail.com</mail>
+           <adres>farabı sok: no: 132</adres>
+                      
+       </iletişimbilgileri>  
+    </yayınevi>
+    
+   
+    <yayınevi>
+        <yayınevi_id>2</yayınevi_id>
+        <yayıneviadı>Adam yayıncılık</yayıneviadı>
+        <Yayınyeri>istanbul</Yayınyeri>
+        
+       <iletişimbilgileri>
+         
+           <telefon>05687414587</telefon>
+           <mail>dsasdfhfdfs@gmail.com</mail>
+           <adres>yılmaz sok : no:32</adres>
+                      
+       </iletişimbilgileri>  
+    </yayınevi>
+
+   
+    <yayınevi>
+        <yayınevi_id>2</yayınevi_id>
+        <yayıneviadı>Monorit Yayıncılık</yayıneviadı>
+        <Yayınyeri>istanbul</Yayınyeri>
+        
+       <iletişimbilgileri>
+         
+           <telefon>0541478787</telefon>
+           <mail>dasdsahfdfs@gmail.com</mail>
+           <adres>eren sok : no:741</adres>
+                      
+       </iletişimbilgileri>  
+    </yayınevi>
+    
+    
+    
+
+
+</yayınevleri>

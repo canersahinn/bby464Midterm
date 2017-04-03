@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kitaplar>
+    <kitap>
+        <kitap_id>1</kitap_id>
+        <kitapadı>Yazmazsam Deli Olacaktım</kitapadı>
+        <yazaradı>Susie Hodge</yazaradı>
+        <sayfasayısı>200</sayfasayısı>
+        <yayınevi>domingo</yayınevi>
+        <ısbn>45465321646</ısbn>
+        <tür>biyografi</tür>
+    </kitap>
+    
+    <kitap>
+        <kitap_id>2</kitap_id>
+        <kitapadı>Yeni Bir Ülke Bulamazsın</kitapadı>
+        <yazaradı>Walter Isaacson</yazaradı>
+        <sayfasayısı>154</sayfasayısı>
+        <yayınevi>Adam Yayıncılık</yayınevi>
+        <ısbn>15479647157</ısbn>
+        <tür>Cografya</tür>
+    </kitap>
+    
+    <kitap>
+        <kitap_id>3</kitap_id>
+        <kitapadı>Beyin Senin Hikayen</kitapadı>
+        <yazaradı>Kevin Dutton</yazaradı>
+        <sayfasayısı>194</sayfasayısı>
+        <yayınevi>Adam Yayıncılık</yayınevi>
+        <ısbn>65798448946565</ısbn>
+        <tür>Kişisel gelişim</tür>
+    </kitap>
+    
+    <kitap>
+        <kitap_id>4</kitap_id>
+        <kitapadı>Beynin Gizli Hayatı</kitapadı>
+        <yazaradı>Maris Wicks</yazaradı>
+        <sayfasayısı>285</sayfasayısı>
+        <yayınevi>Monorit Yayıncılık</yayınevi>
+        <ısbn>87456974154</ısbn>
+        <tür>Bilimsel</tür>
+    </kitap>
+    
+        <kitap>
+        <kitap_id>5</kitap_id>
+        <kitapadı>Gerçekten Bilmeniz Gereken 50 Sanat</kitapadı>
+        <yazaradı>David Eaglmen</yazaradı>
+        <sayfasayısı>248</sayfasayısı>
+        <yayınevi>Adam Yayıncılık</yayınevi>
+        <ısbn>654487454157</ısbn>
+        <tür>Kişisel Gelişim</tür>
+    </kitap>
+    
+        <kitap>
+        <kitap_id>6</kitap_id>
+        <kitapadı>Geleceği Keşfedenler</kitapadı>
+        <yazaradı>Kevin Dutton</yazaradı>
+        <sayfasayısı>165</sayfasayısı>
+        <yayınevi>Domingo Yayın evi</yayınevi>
+        <ısbn>65485247896</ısbn>
+        <tür>Bilim Kurgu</tür>
+    </kitap>
+    
+    <kitap>
+        <kitap_id>7</kitap_id>
+        <kitapadı>Bakır İntiharlar</kitapadı>
+        <yazaradı>Ahmet Haşim</yazaradı>
+        <sayfasayısı>149</sayfasayısı>
+        <yayınevi>Adam Yayıncılık</yayınevi>
+        <ısbn>96547874125</ısbn>
+        <tür>Edebi</tür>
+    </kitap>
+
+    <kitap>
+        <kitap_id>8</kitap_id>
+        <kitapadı>İnsan Vücüdu Tiyatrosu</kitapadı>
+        <yazaradı>Susie Hodge</yazaradı>
+        <sayfasayısı>224</sayfasayısı>
+        <yayınevi>Adam Yayıncılık</yayınevi>
+        <ısbn>78965411478</ısbn>
+        <tür>Dram</tür>
+    </kitap>
+    
+    <kitap>
+        <kitap_id>9</kitap_id>
+        <kitapadı>Bir Ölüm Bağışlamak</kitapadı>
+        <yazaradı>Ahmet Haşim</yazaradı>
+        <sayfasayısı>348</sayfasayısı>
+        <yayınevi>Adam Yayıncılık</yayınevi>
+        <ısbn>domingo Yayınevi</ısbn>
+        <tür>Edebi</tür>
+    </kitap>
+
+    <kitap>
+        <kitap_id>10</kitap_id>
+        <kitapadı>Güle Güle Ki Tarif Edemem</kitapadı>
+        <yazaradı>Kevin Dutton</yazaradı>
+        <sayfasayısı>222</sayfasayısı>
+        <yayınevi>Monorit Yayıncılık</yayınevi>
+        <ısbn>234325475634</ısbn>
+        <tür>Komedi</tür>
+    </kitap>
+
+    
+    <kitap>
+        <kitap_id>11</kitap_id>
+        <kitapadı>Dönüp Baktığımda</kitapadı>
+        <yazaradı>Walter Isaacson</yazaradı>
+        <sayfasayısı>467</sayfasayısı>
+        <yayınevi>Adam Yayıncılık</yayınevi>
+        <ısbn>787878797897 </ısbn>
+        <tür>Biyografi</tür>
+    </kitap>
+
+    
+    <kitap>
+        <kitap_id>12</kitap_id>
+        <kitapadı>Doğa Öyküleri</kitapadı>
+        <yazaradı>Maris Wicks</yazaradı>
+        <sayfasayısı>314</sayfasayısı>
+        <yayınevi>Domingo Yayınevi</yayınevi>
+        <ısbn>14548489457</ısbn>
+        <tür>Cografya</tür>
+    </kitap>
+    
+    <kitap>
+        <kitap_id>13</kitap_id>
+        <kitapadı>Işığını söndürme sakın</kitapadı>
+        <yazaradı>Susie Hodge</yazaradı>
+        <sayfasayısı>254</sayfasayısı>
+        <yayınevi>Adam Yayıncılık</yayınevi>
+        <ısbn>564654654654</ısbn>
+        <tür>Fantastik</tür>
+    </kitap>
+
+
+</kitaplar>
